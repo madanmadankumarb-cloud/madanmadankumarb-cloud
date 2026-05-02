@@ -6,7 +6,7 @@ Dynamically generated from resume content with embedded stats & badges.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6A3D&center=true&vCenter=true&width=500&lines=Electronics+%26+Communication+Engineer;VLSI+%26+Embedded+Systems+Enthusiast;ML+in+Healthcare+Researcher;Seeking+IIT+Internship" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6A3D&center=true&vCenter=true&width=500&lines= Electronics+%26+Communication+Engineer; VLSI+%26+Embedded+Systems+Enthusiast;ML+in+Healthcare+Researcher;Seeking+IIT+Internship" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Madan Kumar B</h1>
